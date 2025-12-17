@@ -15,3 +15,4 @@ There are two main, prominent schools of thought for causal inference:
 
 - [Book List](docs/book_list.md) - Recommended books on causal inference
 - [Tutorial List](docs/tutorial_list.md) - Online tutorials and papers with links
+- [Package List](docs/package.md) - Causal inference Python packages
